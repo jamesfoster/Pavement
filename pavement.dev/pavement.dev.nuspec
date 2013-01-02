@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>pavement.dev</id>
+    <version>1.0</version>
+    <title>Pavement.Dev</title>
+    <authors>James Foster</authors>
+    <owners>James Foster</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pavement.Dev includes a set of useful utils for development.
+When paving a dev machine this is a usefut set to get up and running.
+Check the dependancies for a list of the included utils</description>
+    <summary>Pavement.Dev: A set of useful development utils</summary>
+    <tags>pavement development utilities tools chocolatey</tags>
+    <dependencies>
+      <dependency id="fiddler" />
+      <dependency id="lessmsi" />
+      <dependency id="expresso" />
+      <dependency id="sysinternals" />
+      <dependency id="resharper" />
+      <dependency id="git" />
+      <dependency id="tortoisegit" />
+      <dependency id="githubforwindows" />
+      <dependency id="ilmerge" />
+      <dependency id="nmap" />
+      <dependency id="nodejs" />
+      <dependency id="kdiff3" />
+      <dependency id="wget" />
+    </dependencies>
+  </metadata>
+</package>

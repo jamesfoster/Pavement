@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>pavement.standard</id>
+    <version>1.0</version>
+    <title>Pavement.Standard</title>
+    <authors>James Foster</authors>
+    <owners>James Foster</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>pavement.standard includes a set of useful utils.
+When paving a machine this is a useful standard set of utils to get back up and running.
+Check the dependancies for a list of the included utils</description>
+    <summary>Pavement.Standard: a set of useful utils</summary>
+    <tags>pavement utilities tools chocolatey</tags>
+    <dependencies>
+      <dependency id="filezilla" />
+      <dependency id="7zip" />
+      <dependency id="notepadplusplus" />
+      <dependency id="vlc" />
+      <dependency id="putty" />
+      <dependency id="windirstat" />
+      <dependency id="GoogleChrome" />
+      <dependency id="skype" />
+      <dependency id="dropbox" />
+      <dependency id="googledrive" />
+      <dependency id="console2" />
+      <dependency id="launchy" />
+    </dependencies>
+  </metadata>
+</package>
