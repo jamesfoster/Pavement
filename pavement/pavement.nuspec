@@ -2,15 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>pavement</id>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <title>Pavement</title>
     <authors>James Foster</authors>
     <owners>James Foster</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>pavement includes all pavement utility sets.
+    <description>Includes all Pavement sets.
 Check the dependancies for a list of the included utils</description>
-    <summary>Pavement.Standard: a set of useful utils</summary>
-    <tags>pavement utilities tools chocolatey</tags>
+    <summary>Pavement: a set of useful utils</summary>
+    <tags>pavement development utilities tools</tags>
     <dependencies>
       <dependency id="pavement.standard" />
       <dependency id="pavement.dev" />

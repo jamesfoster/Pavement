@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>pavement.dev</id>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <title>Pavement.Dev</title>
     <authors>James Foster</authors>
     <owners>James Foster</owners>
@@ -11,7 +11,7 @@
 When paving a dev machine this is a usefut set to get up and running.
 Check the dependancies for a list of the included utils</description>
     <summary>Pavement.Dev: A set of useful development utils</summary>
-    <tags>pavement development utilities tools chocolatey</tags>
+    <tags>pavement development utilities tools</tags>
     <dependencies>
       <dependency id="fiddler" />
       <dependency id="lessmsi" />
